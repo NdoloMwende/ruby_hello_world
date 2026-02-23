@@ -171,7 +171,7 @@ I will keep updating my work here as I move to the remaining phases
 
 ##  Author
 
-**Mercy Oringa**  
+**Mercy Ndolo**  
 Beginner Ruby developer | Transitioning from Python  
 GitHub: [NdoloMwende](https://github.com/NdoloMwende)
 
